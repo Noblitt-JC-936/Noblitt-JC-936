@@ -1,4 +1,4 @@
-# Hellow World, I'm Jonathan
+# Hello World, I'm Jonathan
 Aspiring IT professional and future programmer with hands-on experience in Linux, Windows, programming, automation, PC building, and networking.
 
 - **Certification:** CompTIA Tech+ (earned May 9) · Network+ (in progress)
