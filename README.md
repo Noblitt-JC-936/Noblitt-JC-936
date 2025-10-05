@@ -13,9 +13,7 @@ Aspiring IT professional and future programmer with hands-on experience in Linux
 - IT infrastructure fundamentals (patch panels, RJ-45 terminations, cable testing)
 
 ## 📌 Pinned Projects
-- [Linux Automation Script](https://github.com/Noblitt-JC-936/automation-script-linux)
-- [VirtualBox Network Lab](https://github.com/Noblitt-JC-936/virtualbox-network-lab)
-- [PC Build & Troubleshooting](https://github.com/Noblitt-JC-936/msi-pc-build)
+- TBA
 
 ## 🧠 Skills
 **Systems:** Linux (SteamOS/Debian), Windows 7/10/11
